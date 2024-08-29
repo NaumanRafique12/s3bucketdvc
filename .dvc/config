@@ -1,4 +1,4 @@
 [core]
     remote = dvcstore
 ['remote "dvcstore"']
-    url = s3://s3bucketdvc
+    url = s3://pipelines3bucketdvc
